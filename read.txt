@@ -1,0 +1,1 @@
+mvn clean test -Dkarate.env=dev -Dkarate.options="--tags @GumtreeAdsList"
